@@ -55,6 +55,9 @@ a{
 h1, h2, h3{
     margin:0;
 }
+p{
+    color: #8a8a8a;
+}
 .blu{
     width: 100%;
     min-height:  610px;
@@ -87,8 +90,11 @@ h1, h2, h3{
 }
 /* Footer */
 footer{
-    background-color: #8801fe;
     width: 100%;
     min-height: 100px;
     margin-bottom: 20px;
+    text-align: center;
+}
+.red{
+    color: red;
 }
