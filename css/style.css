@@ -33,11 +33,15 @@ a{
     margin-right: 20px;
 }
 /* Body */
-.yellow{
-    background-color: #e1d67a;
+.placeholder{
     width: 100%;
     min-height: 500px;
     margin-bottom: 20px;
+}
+.placeholder img{
+    height: 500px;
+    margin: auto;
+    border-radius: 20px;
 }
 .blu{
     background-color: #0088fc;
