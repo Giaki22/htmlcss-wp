@@ -52,23 +52,28 @@ a{
     left: 50px;
     color: white;
 }
-h2, h3{
+h1, h2, h3{
     margin:0;
 }
 .blu{
-    background-color: #0088fc;
     width: 100%;
     min-height:  610px;
     margin-bottom: 20px;
-}
-.lb{
-    background-color: #abcfe7;
 }
 .blu .head{
     width: 100%;
     min-height: 70px;
     margin-bottom: 20px;
 }
+.head small{
+    color:#8a8a8a
+}
+.blu img{
+    height: 200px;
+    border-radius: 20px;
+    width: 100%;
+}
+
 .blu .sub{
     float: left;
     width: 25%;
