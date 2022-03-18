@@ -18,10 +18,19 @@ body{
 
 /* Header */
 header{
-    background-color: #e579e6;
     width: 100%;
     min-height: 100px;
     margin-bottom: 20px;
+    padding: 0 10px;
+}
+#logo{
+    height: 75px;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: #8a8a8a;
+    margin-right: 20px;
 }
 /* Body */
 .yellow{
