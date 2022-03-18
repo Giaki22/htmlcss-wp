@@ -44,6 +44,7 @@ a{
     height: 500px;
     margin: auto;
     border-radius: 20px;
+    object-fit: cover;
 }
 .text{
     position: absolute;
@@ -75,6 +76,7 @@ p{
     height: 200px;
     border-radius: 20px;
     width: 100%;
+    object-fit: cover;
 }
 
 .blu .sub{
