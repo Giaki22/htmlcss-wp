@@ -27,6 +27,8 @@ header{
 #logo{
     height: 75px;
     margin-bottom: 50px;
+    border-right: 1px solid lightgrey;
+    padding-right: 10px;
 }
 a{
     text-decoration: none;
