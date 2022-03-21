@@ -24,6 +24,12 @@ header{
     margin-bottom: 20px;
     padding: 0 10px;
 }
+li{
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    color: inherit;
+}
 #logo{
     height: 75px;
     margin-bottom: 50px;
